@@ -81,8 +81,11 @@ Task
 
 ֎ You are required to design the required table-Pending Order Table (Table 1). Wherein
 the list of pending order is shown.
+
 ֎ The Table 2 to Would be the Completed Order Table. Wherein those orders whose price
 have matched would be shown.
+
 ֎ And you are required to design and add functionality of form wherein a user could select
 Buyer and Seller and place a new Entry.
+
 ֎ The candidate would have 3 days to complete the given problem.
