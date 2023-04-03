@@ -78,6 +78,7 @@ Completed Order Table
 Whereas the new orders placing could be done both by Buyer and Seller
 
 Task
+
 ֎ You are required to design the required table-Pending Order Table (Table 1). Wherein
 the list of pending order is shown.
 ֎ The Table 2 to Would be the Completed Order Table. Wherein those orders whose price
